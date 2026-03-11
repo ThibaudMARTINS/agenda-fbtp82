@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FBTP82//Evenements//FR
+BEGIN:VEVENT
+UID:groupe-jeunes-20260416@fbtp82.fr
+DTSTAMP:20260311T120000Z
+DTSTART:20260416T183000
+DTEND:20260416T233000
+SUMMARY:Soirée Groupe Jeunes - Comment bien recruter
+LOCATION:Fédération BTP 82 - Montauban 82 Avenue du portugal
+DESCRIPTION:Rencontre du Groupe Jeunes de la Fédération BTP 82.
+END:VEVENT
+END:VCALENDAR
